@@ -11,3 +11,8 @@
    python / python3 app.py<br/>
    pycharm / vscode 등을 실행하여 app.py 실행
 ~~~
+
+# Linux Server 경로
+~~~
+   cd /home/user/mongoDB_Elasticsearch/mongoDB_Elasticsearch
+~~~
